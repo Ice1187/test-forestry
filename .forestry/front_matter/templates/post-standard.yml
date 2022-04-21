@@ -19,3 +19,4 @@ fields:
 - name: toc
   type: boolean
   label: toc
+  default: true
