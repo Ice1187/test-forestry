@@ -20,5 +20,3 @@ fields:
   type: boolean
   label: toc
   default: true
-pages:
-- _posts/testing.md
